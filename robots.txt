@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-id18br.pusatradar88.cfd/sitemap.xml
